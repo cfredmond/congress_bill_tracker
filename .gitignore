@@ -1,0 +1,8 @@
+venv/
+db.sqlite3
+.DS_Store
+.vscode/*
+.env
+congress_bill_tracker/__pycache__/*
+congress_bill_tracker/app/__pycache__/*
+congress_bill_tracker/app/migrations/__pycache__/*
