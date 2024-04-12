@@ -56,10 +56,3 @@ Congress Bill Tracker is a Django application that retrieves and stores informat
 ## Configuration
 
 - Update the `SECRET_KEY`, `DEBUG`, and `CONGRESS_GOV_API_KEY` settings in the `.env` file.
-
-## Usage
-
-- Use the web interface to browse and search for bills.
-- Filter bills by congress, bill type, chamber, or other criteria.
-- Click on a bill to view its details, including the latest action.
-- Use the Django admin interface to manage bills and latest actions.
